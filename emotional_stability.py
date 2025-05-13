@@ -1,3 +1,5 @@
+# Trying to simulate emotional stability and mental health in Python to enhance understanding of how it gets affected by various events.
+
 emotional_stabilility = 0
 useless_information = 0
 negative_outlook = 0
